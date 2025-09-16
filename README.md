@@ -1,1 +1,1 @@
-# streamlit-clasificador-imagenes-ia
+# Clasificador
